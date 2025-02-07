@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @mirzamudassar
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning new problem solving tips
-- 💞️ I’m looking to collaborate on any software technology
-- 📫 How to reach me ... mrmudassarbaig@hotmail.com./ +923152330999
+👋 Hi, I'm Mudassar Baig (@mirzamudassar)
+🚀 Senior Mobile Application Developer | Flutter | Android | iOS
 
-<!---
-mirzamudassar/mirzamudassar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 About Me
+🎯 Passionate about mobile app development, specializing in Flutter, Kotlin, Swift, and React Native.
+🔍 Constantly exploring new problem-solving techniques and best practices.
+🤝 Open to collaborations on mobile & software technologies.
+📱 Experienced in building scalable, high-performance mobile applications.
+🛠 Skilled in REST APIs, Firebase, GraphQL, State Management (Bloc, Provider, Riverpod), and CI/CD.
+📈 Tech Stack
+✔ Languages: Dart, Kotlin, Swift, Java
+✔ Frameworks: Flutter, React Native
+✔ State Management: Bloc, Provider, Riverpod, Redux
+✔ Backend: Firebase, Node.js, Laravel
+✔ Tools: Git, Jenkins, Fastlane, Postman
+✔ Cloud: AWS, Google Cloud, Firebase
+
+📞 Let's Connect
+📧 Email: mrmudassarbaig@hotmail.com
+📞 WhatsApp: +92 315 2330999
+🌐 GitHub: mirzamudassar
+🔗 LinkedIn: linkedin.com/in/mirzamudassar 
