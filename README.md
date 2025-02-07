@@ -7,6 +7,7 @@
 🤝 Open to collaborations on mobile & software technologies.
 📱 Experienced in building scalable, high-performance mobile applications.
 🛠 Skilled in REST APIs, Firebase, GraphQL, State Management (Bloc, Provider, Riverpod), and CI/CD.
+
 📈 Tech Stack
 ✔ Languages: Dart, Kotlin, Swift, Java
 ✔ Frameworks: Flutter, React Native
