@@ -4,7 +4,7 @@ I ship scalable, high-performance mobile apps (Flutter, Android, iOS) with stron
 
 ## 💡 About
 - 6+ years building and maintaining production apps
-- Experience across Fintech, IoT, Events, and SaaS
+- Experience across AI, Fintech, IoT, Events, and SaaS
 - Strong focus on performance, DX, and maintainability
 - Open to collaborations on mobile and platform work
 
